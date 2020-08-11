@@ -1,0 +1,27 @@
+
+.body{
+    /* background-image: url("0.jpg"); */
+    /* text-align: center; */
+    margin-top: 8%;
+
+}
+#paper{
+    margin:0px auto;
+    margin-top: 20px;
+    padding: 10px 40px 40px 40px;
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+    width: 50%;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: 10 solid;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+h1{
+    text-align: center;
+}
